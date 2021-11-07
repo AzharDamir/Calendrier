@@ -1,0 +1,3 @@
+﻿  DateH.cpp
+C:\Users\azhar damir\Source\Repos\date_heure_static\date_heure_static\DateH.cpp(39,111): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+  date_heure_static.vcxproj -> C:\Users\azhar damir\Source\Repos\date_heure_static\x64\Debug\date_heure_static.lib
